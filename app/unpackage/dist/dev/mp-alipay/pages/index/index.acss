@@ -1,0 +1,44 @@
+
+.page {
+	/* margin: 20rpx;
+			padding: 6rpx; */
+	border-top: 1px solid #eee;
+	margin-top: 14px;
+	padding: 48rpx 20rpx 20rpx 20rpx;
+	background: #fff;
+}
+.index {
+	background: #FFFFFF;
+}
+.viewline {
+	height: 50px;
+	margin-bottom: 5px;
+	line-height: 50px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+}
+.msglist {
+	height: 300px;
+	overflow-y: scroll;
+	border: #999999 1px solid;
+}
+.input {
+	border: #C0C0C0 1px solid;
+	border-radius: 3px;
+}
+.btn {
+	width: 120px;
+	height: 40px;
+	background: #007AFF;
+	color: #FFFFFF;
+	line-height: 40px;
+	text-align: center;
+	border-radius: 6px;
+	margin: 2px auto;
+}
+
